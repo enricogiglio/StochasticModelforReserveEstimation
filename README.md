@@ -28,3 +28,11 @@ The repository includes Python scripts for:
 ```
  python reserve_estimation.py
 ```
+
+### Functions
+Each function in the script includes detailed docstrings for understanding its purpose and usage. Key functions include:
+
+- `generate_saw_sequence()`: Generates a sawtooth sequence for the given time horizon and variation of residual demand (ramp dynamics).
+- `tripping()`: Evaluates tripping events for network components over the given years.
+- `reserve_dimensioning()`: Calculates reserve requirements based on specified quantiles using a stochastic approach.
+- `reserve_function_builder()`: Main function that activates all the other sub-functions.
