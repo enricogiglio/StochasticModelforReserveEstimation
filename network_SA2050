@@ -1,0 +1,14 @@
+Name,Type_of_component,P_nom-avlb,prob_trip,std_dev,n_mod,resol_explor_P_avlb,carrier,n_min,n_comb
+Generator-Coal-cluster1,Generator,195.0,8.104694382948807e-05,0.0,40,0.0,Coal,0,3
+Generator-Coal-cluster2,Generator,590.0,8.104694382948807e-05,0.0,48,0.0,Coal,0,3
+Generator-Wind-cluster1,Generator,100.0,4.756457485544097e-06,0.176,480,0.25,Wind,0,3
+Generator-Nuclear-cluster1,Generator,930.0,1.2747255130562962e-05,0.0,2,0.0,Nuclear,1,2
+Generator-Hydro-cluster1,Generator,70.0,9.322635387221112e-06,0.0,12,0.0,Hydro,0,2
+Store_Pumped-hydro,Store,265.0,9.322635387221112e-06,0.0,43,0.0,Pumped-hydro,0,2
+Generator-Gas-cluster1,Generator,55.0,2.321129834581548e-05,0.0,14,0.0,Gas,0,2
+Generator-Diesel-cluster1,Generator,155.0,2.321129834581548e-05,0.0,20,0.0,Diesel,0,3
+Generator-CSP-cluster1,Generator,100.0,3.0060430976752706e-05,0.0,100,0.0,CSP,0,3
+Store_Li-ion,Store,100.0,1.522068856840697e-06,0.0,10000,0.0,Li-ion,0,3
+Store_H2,Store,100.0,6.6666444444862805e-06,0.0,1000,0.0,H2,0,3
+Generator-Solar PV-cluster1,Generator,100.0,7.610347180220245e-07,0.15,805,0.25,Solar PV,0,3
+Load,Load,35000.0,0.0,0.035,1,0.25,Load,15000,0
