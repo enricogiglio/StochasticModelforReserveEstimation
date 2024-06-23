@@ -36,3 +36,6 @@ Each function in the script includes detailed docstrings for understanding its p
 - `tripping()`: Evaluates tripping events for network components over the given years.
 - `reserve_dimensioning()`: Calculates reserve requirements based on specified quantiles using a stochastic approach.
 - `reserve_function_builder()`: Main function that activates all the other sub-functions.
+
+# Collaboration
+These codes were developed in collaboration with @davide-f.
