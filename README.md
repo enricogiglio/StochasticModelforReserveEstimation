@@ -40,18 +40,22 @@ Each function in the script includes detailed docstrings for understanding its p
 # Collaboration
 These codes were developed in collaboration with @davide-f
 
-# Citing
 
-If you use this code for your research, we would appreciate it if you would cite the following paper:
 
+# Citation
+
+If you use this work, please cite:
+
+```bibtex
 @article{GIGLIO2025,
-title = {Integrated stochastic reserve estimation and MILP energy planning for high renewable penetration: Application to 2050 South African energy system},
-journal = {Sustainable Energy, Grids and Networks},
-volume = {42},
-pages = {101650},
-year = {2025},
-issn = {2352-4677},
-doi = {https://doi.org/10.1016/j.segan.2025.101650},
-url = {https://www.sciencedirect.com/science/article/pii/S2352467725000323},
-author = {Enrico Giglio and Davide Fioriti and Munyaradzi Justice Chihota and Davide Poli and Bernard Bekker and Giuliana Mattiazzo},
+  title = {Integrated stochastic reserve estimation and MILP energy planning for high renewable penetration: Application to 2050 South African energy system},
+  journal = {Sustainable Energy, Grids and Networks},
+  volume = {42},
+  pages = {101650},
+  year = {2025},
+  issn = {2352-4677},
+  doi = {https://doi.org/10.1016/j.segan.2025.101650},
+  url = {https://www.sciencedirect.com/science/article/pii/S2352467725000323},
+  author = {Enrico Giglio and Davide Fioriti and Munyaradzi Justice Chihota and Davide Poli and Bernard Bekker and Giuliana Mattiazzo}
 }
+
